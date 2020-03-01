@@ -1,8 +1,2 @@
 blank_issues_enabled: false
-contact_links:
-  - name: Bug report
-    url: https://github.com/r3dson/agenda-collab/issues/new?assignees=&labels=&template=bug_report.md&title=%5BDATE%5D%3A+%5BBUG+NAME%5D
-    about: Report bug or other strange behaviour.
-  - name: Feature request
-    url: https://github.com/r3dson/agenda-collab/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=
-    about: New ideas or features.
+
